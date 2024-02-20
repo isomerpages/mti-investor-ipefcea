@@ -10,7 +10,7 @@ sections:
       title: IPEF Investor Forum
       subtitle: Mark your calendars! IPEF Investor Forum debuts at Marina Bay Sands,
         Singapore, 6 June 2024
-      background: /images/hero-banner.png
+      background: /images/isomer-logo.svg
       button: Contact us
       url: /contact-us/
       variant: center
@@ -20,7 +20,7 @@ sections:
       id: infopic
       description: Background of IPEF
       button: Button Text
-      alt: Image alt text
+      image: /images/hero-banner.png
   - infobar:
       title: Infobar title
       subtitle: Subtitle
