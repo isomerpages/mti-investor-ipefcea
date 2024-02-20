@@ -3,7 +3,7 @@ url: https://ipefinvestorforum.org
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#122620"
-  secondary-color: "#efcfa0"
+  secondary-color: "#122620"
   media-colors:
     - title: media-color-one
       color: "#28221e"
