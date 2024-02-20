@@ -4,24 +4,23 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: IPEF Investor Forum
+      subtitle: Mark your calendars! IPEF Investor Forum debuts at Marina Bay Sands,
+        Singapore, 6 June 2024
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Contact us
       url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+      variant: center
+  - infopic:
+      title: ABOUT IPEF
+      subtitle: Add an image and text
+      id: infopic
+      description: Background of IPEF
+      button: Button Text
+      alt: Image alt text
   - infobar:
       title: Infobar title
       subtitle: Subtitle
