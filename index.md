@@ -21,28 +21,28 @@ sections:
       description: Background of IPEF
       button: Button Text
       image: /images/hero-banner.png
+  - textcards:
+      title: Programme Overview
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Panel Discussions
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Business Matching
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Project level discussions
+          description: Card description
+          linktext: Learn more
+          url: ""
   - infobar:
       title: Green-Light
       subtitle: Open Call
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - textcards:
-      title: Text Cards
-      subtitle: Add informational text
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
 ---
