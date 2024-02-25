@@ -1,8 +1,17 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
+  - title: Investor forum 2024
+    url: /permalink
+  - title: "[OPEN CALL]"
     url: /example-page/
-  - title: Example Folder
+  - title: Newsroom
     collection: example-folder
+  - title: About
+    url: /permalink
+    sublinks:
+      - title: IPEF INVESTOR FORUM
+        url: /permalink
+      - title: IPEF
+        url: /permalink
+      - title: KNOWLEDGE PARTNERS
+        url: /permalink
