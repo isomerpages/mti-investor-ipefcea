@@ -2,6 +2,15 @@ logo: /images/isomer-logo.svg
 links:
   - title: Investor forum 2024
     url: /permalink
+    sublinks:
+      - title: Overview
+        url: /permalink
+      - title: Programme
+        url: /permalink
+      - title: Speakers
+        url: /permalink
+      - title: Partner Events
+        url: /permalink
   - title: "[OPEN CALL]"
     url: /example-page/
   - title: Newsroom
