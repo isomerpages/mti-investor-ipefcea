@@ -14,15 +14,6 @@ sections:
       button: Contact us
       url: /contact-us/
       variant: center
-  - infopic:
-      title: ABOUT IPEF
-      subtitle: Background of IPEF
-      id: infopic
-      description: What is the Indo-Pacific Economic Framework?
-      button: LEARN MORE
-      image: /images/Screenshot_2023_11_17_153327.png
-      url: /aboutipef
-      alt: placeholder
   - textcards:
       title: Programme Overview
       id: textcards
