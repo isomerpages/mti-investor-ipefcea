@@ -22,6 +22,7 @@ sections:
       button: LEARN MORE
       image: /images/Screenshot_2023_11_17_153327.png
       url: /aboutipef
+      alt: placeholder
   - textcards:
       title: Programme Overview
       id: textcards
