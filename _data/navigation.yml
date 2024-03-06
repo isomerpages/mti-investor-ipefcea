@@ -5,16 +5,8 @@ links:
     sublinks:
       - title: Overview
         url: /overview
-      - title: Programme
-        url: /permalink
-      - title: Speakers
-        url: /permalink
-      - title: Partner Events
-        url: /permalink
   - title: About
     url: /permalink
     sublinks:
-      - title: IPEF INVESTOR FORUM
-        url: /overview
       - title: IPEF
         url: /aboutipef
