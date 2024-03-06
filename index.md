@@ -22,7 +22,7 @@ sections:
           description: ""
         - title: Business Matching
           description: Stay tuned for more
-        - title: Project Level Discussions
+        - title: SG Evening
           description: ""
   - infobar:
       title: Green-Light
