@@ -30,7 +30,7 @@ sections:
       description: For high-potential solutions waiting to seize their next big break.
         More information coming soon!
   - infobar:
-      title: ClimadeTech
+      title: Climatic
       subtitle: Open call
       id: infobar
       description: Calling all trailblazing startups and change makers developing tech
