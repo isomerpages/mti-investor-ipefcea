@@ -32,18 +32,15 @@ sections:
           url: ""
   - infobar:
       title: Green-Light
-      subtitle: Open Call
-      description: For trailblazing startups and high-potential solutions waiting to
-        seize their next big break. More information coming soon!
-      button: Learn more
-      url: /faq/
+      subtitle: Call for projects
+      description: For high-potential solutions waiting to seize their next big break.
+        More information coming soon!
   - infobar:
       title: ClimadeTech
-      subtitle: Add informational text
+      subtitle: Open call
       id: infobar
-      description: Infobar description
-      button: Learn more
-      url: /faq
+      description: For the next generation of trailblazing startups and change makers.
+        More information coming soon!
   - announcements:
       title: Upcoming Events
       id: announcements
