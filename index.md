@@ -33,12 +33,11 @@ sections:
       title: ClimadeTech
       subtitle: Open call
       id: infobar
-      description: Calling the next generation of trailblazing startups and
-        changemakers. More information coming soon!
+      description: Calling all trailblazing startups and change makers developing tech
+        for climate change. More information coming soon!
   - announcements:
       title: Upcoming Events
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: Coming Soon
           date: 22 March 2024
