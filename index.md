@@ -37,6 +37,13 @@ sections:
         seize their next big break. More information coming soon!
       button: Learn more
       url: /faq/
+  - infobar:
+      title: ClimadeTech
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Learn more
+      url: /faq
   - announcements:
       title: Upcoming Events
       id: announcements
