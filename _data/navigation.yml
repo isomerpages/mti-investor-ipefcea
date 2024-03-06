@@ -11,10 +11,6 @@ links:
         url: /permalink
       - title: Partner Events
         url: /permalink
-  - title: "[OPEN CALL]"
-    url: /example-page/
-  - title: Newsroom
-    collection: example-folder
   - title: About
     url: /permalink
     sublinks:
@@ -22,5 +18,3 @@ links:
         url: /overview
       - title: IPEF
         url: /aboutipef
-      - title: KNOWLEDGE PARTNERS
-        url: /permalink
