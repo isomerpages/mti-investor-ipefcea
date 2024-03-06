@@ -33,8 +33,8 @@ sections:
       title: ClimadeTech
       subtitle: Open call
       id: infobar
-      description: For the next generation of trailblazing startups and change makers.
-        More information coming soon!
+      description: Calling the next generation of trailblazing startups and
+        changemakers. More information coming soon!
   - announcements:
       title: Upcoming Events
       id: announcements
