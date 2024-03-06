@@ -14,22 +14,16 @@ sections:
       button: Contact us
       url: /contact-us/
       variant: center
-  - textcards:
+  - infocols:
       title: Programme Overview
-      id: textcards
-      cards:
+      id: infocols
+      infoboxes:
         - title: Panel Discussions
-          description: Stay tuned for more
-          linktext: Learn more
-          url: ""
+          description: ""
         - title: Business Matching
           description: Stay tuned for more
-          linktext: Learn more
-          url: ""
-        - title: Project level discussions
-          description: Stay tuned for more
-          linktext: Learn more
-          url: ""
+        - title: Project Level Discussions
+          description: ""
   - infobar:
       title: Green-Light
       subtitle: Call for projects
