@@ -35,7 +35,7 @@ sections:
         More information coming soon!
   - infobar:
       title: Climatic
-      subtitle: Open call
+      subtitle: Open call for start ups
       id: infobar
       description: Calling all trailblazing startups and change makers developing tech
         for climate change. More information coming soon!
