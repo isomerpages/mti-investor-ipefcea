@@ -29,12 +29,12 @@ sections:
         - title: Pitching to Investors
           description: ""
   - infobar:
-      title: Green-Light
+      title: "Green-Light: Sustainable Infrastructure"
       subtitle: Call for projects
       description: For high-potential sustainable infrastructure projects waiting to
         seize their next big break. More information coming soon!
   - infobar:
-      title: Climatic
+      title: "Green-Light: Climate Tech Start-Ups"
       subtitle: Open call for start ups
       id: infobar
       description: Calling all trailblazing startups and change makers developing tech
