@@ -44,7 +44,7 @@ sections:
       id: announcements
       announcement_items:
         - title: Coming Soon
-          date: 22 March 2024
+          date: 06 June 2024
           announcement: Stay tuned for more details
           link_text: ""
           link_url: ""
