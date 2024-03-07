@@ -7,12 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: IPEF Investor Forum
-      subtitle: Mark your calendars! IPEF Investor Forum premieres at Marina Bay
-        Sands, Singapore, 6 June 2024
+      title: IPEF Clean Economy Investor Forum
+      subtitle: IPEF Investor Forum premieres at Marina Bay Sands, Singapore, 6 June 2024
       background: /images/Screenshot_2023_11_17_153349.png
-      button: Contact us
-      url: /contact-us/
       variant: center
   - infopic:
       title: IPEF Investor Forum
