@@ -14,15 +14,22 @@ sections:
       button: Contact us
       url: /contact-us/
       variant: center
+  - infopic:
+      title: IPEF Investor Forum
+      id: infopic
+      button: About the forum
+      url: /overview
+      image: /images/Screenshot_2023_11_17_153327.png
+      alt: Image alt text
   - infocols:
       title: Programme Overview
       id: infocols
       infoboxes:
-        - title: Panel Discussions
+        - title: Welcome Dinner Reception
           description: ""
-        - title: Business Matching
+        - title: Panel Discussions
           description: Stay tuned for more
-        - title: SG Evening
+        - title: Pitching to Investors
           description: ""
   - infobar:
       title: Green-Light
