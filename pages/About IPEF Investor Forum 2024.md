@@ -12,5 +12,4 @@ infrastructure and climate technology investments across IPEF economies
 that are party to the Clean Economy Agreement. To achieve this, the Investor
 Forum aims to gather the region’s largest investors, innovative start-up
 entrepreneurs, cutting-edge project proponents, and government agencies
-for matchmaking and investment facilitation. At the U.S.’ invitation, Singapore
-has agreed to host the inaugural Investor Forum on 6 June 2024.</p>
+for matchmaking and investment facilitation.</p>
