@@ -28,7 +28,9 @@ sections:
         - title: Keynotes and panel discussions
           description: ""
         - title: Dedicated breakouts for pitching to investors
-          description: "\n"
+          description: ""
+        - title: More updates coming soon
+          description: ""
   - infobar:
       title: "Green-Light: Sustainable Infrastructure"
       subtitle: Call for projects
