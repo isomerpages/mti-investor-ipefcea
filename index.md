@@ -23,12 +23,12 @@ sections:
       title: Programme Overview
       id: infocols
       infoboxes:
-        - title: Welcome Dinner Reception
+        - title: Welcome Evening Reception
           description: ""
-        - title: Panel Discussions
-          description: Stay tuned for more
-        - title: Pitching to Investors
+        - title: Keynotes and panel discussions
           description: ""
+        - title: Dedicated breakouts for pitching to investors
+          description: "\n"
   - infobar:
       title: "Green-Light: Sustainable Infrastructure"
       subtitle: Call for projects
