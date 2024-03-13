@@ -1,7 +1,2 @@
 logo: /images/image001.jpg
-links:
-  - title: About
-    url: /permalink
-    sublinks:
-      - title: IPEF
-        url: /aboutipef
+links: []
