@@ -136,7 +136,7 @@ You may withdraw consent for your Personal Data to be processed at any
 time, without affecting any data processing activities that might have
 taken place before you withdrew consent and without affecting any other
 existing legal justification of the data processing activities. To exercise
-the above rights, please email MTI at <a href="mailto:community@switchsg.org" rel="noopener noreferrer nofollow" target="_blank">MTI-IPEF_Investorforum@mti.gov.sg</a>.</p>
+the above rights, please email MTI at <a href="mailto:MTI-IPEF_Investorforum@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MTI-IPEF_Investorforum@mti.gov.sg</a>.</p>
 <h3>5. Cookies on IPEF Investor Forum website</h3>
 <h4>5.1</h4>
 <p>This website uses Google Analytics, cookies and similar technologies to
@@ -161,7 +161,7 @@ changes to this Privacy Statement have been made, such use will constitute
 acceptance of the updated Privacy Statement.</p>
 <h3>7. Contact Us</h3>
 <h4>7.1</h4>
-<p>Please contact MTI at <a href="MTI-IPEF_Investorforum@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MTI-IPEF_Investorforum@mti.gov.sg</a> if
+<p>Please contact MTI at <a href="mailto: MTI-IPEF_Investorforum@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MTI-IPEF_Investorforum@mti.gov.sg</a> if
 you have any enquiries or feedback on our Privacy Statement, data protection
 policies and procedures. You may also contact us if you need more information
 on, or access to, data that you had previously provided to IPEF Investor
