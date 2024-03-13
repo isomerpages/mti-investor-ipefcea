@@ -161,7 +161,7 @@ changes to this Privacy Statement have been made, such use will constitute
 acceptance of the updated Privacy Statement.</p>
 <h3>7. Contact Us</h3>
 <h4>7.1</h4>
-<p>Please contact MTI at <a href="mailto:MTI-IPEF_Investorforum@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MTI-IPEF_Investorforum</a>
+<p>Please contact MTI at <a href="mailto:MTI-IPEF_Investorforum@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MTI-IPEF_Investorforum</a> 
 <a href="mailto:community@switchsg.org" rel="noopener noreferrer nofollow" target="_blank">@mti.gov.sg</a>if you have any enquiries or feedback on our Privacy Statement,
 data protection policies and procedures. You may also contact us if you
 need more information on, or access to, data that you had previously provided
