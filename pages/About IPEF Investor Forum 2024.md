@@ -22,7 +22,7 @@ Join us in championing sustainability through strategic investments in
 the Indo-Pacific region.</p>
 <p><u>About the Indo-Pacific Economic Framework for Prosperity (IPEF)</u>
 </p>
-<p>The Indo-Pacific Economic Framework for Prosperity (IPEF) &lt;&lt;<a href="http://ipef.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">ipef.gov.sg</a>&gt;&gt;
+<p>The <a href="ipef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Indo-Pacific Economic Framework for Prosperity</a> (IPEF)
 was launched on 23 May 2022 and currently includes 14 partners – Australia,
 Brunei Darussalam, Fiji, India, Indonesia, Japan, Republic of Korea, Malaysia,
 New Zealand, Philippines, Singapore, Thailand, the United States and Vietnam.
