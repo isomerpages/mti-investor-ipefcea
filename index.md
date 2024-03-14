@@ -4,12 +4,11 @@ title: IPEF Investor Forum
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: The inaugural IPEF Investor Forum premieres in Singapore, 6 June 2024
 sections:
   - hero:
       title: IPEF Clean Economy Investor Forum
-      subtitle: The inaugural IPEF Investor Forum premieres at Marina Bay Sands,
-        Singapore, 6 June 2024
+      subtitle: The inaugural IPEF Investor Forum premieres in Singapore, 6 June 2024
       background: /images/IMG_0008.jpg
       variant: center
   - infopic:
