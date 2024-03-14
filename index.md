@@ -32,8 +32,4 @@ sections:
   - announcements:
       title: Media Centre
       id: announcements
-  - resources:
-      title: Media Centre
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
 ---
