@@ -4,22 +4,16 @@ permalink: /overview/
 variant: tiptap
 description: ""
 ---
-<p>Climate change poses an existential crisis and urgent action is needed
-to mitigate the rising greenhouse gas emissions. In recent years, many
-sustainable projects and innovative green technologies have emerged to
-address this concern, and there is tremendous potential to expand and scale
-up their deployment. The IPEF Clean Economy Investor Forum is a unique
-platform that aims to strengthen international cooperation in the clean
-economy to facilitate access to capital, mitigate risks, expand markets,
-align policy priorities and deliver shared benefits. By bringing together
-the region's largest investors, start-up entrepreneurs, project developers
-and key government representatives, the forum aims to align financial objectives
-with environmental goals, and bridge the gap between available capital
-and critical projects. Through this event, we will build connections between
-the public and private sectors, facilitate insightful conversations with
-esteemed panellists, and enable high quality business and capital matchmaking.
-Join us in championing sustainability through strategic investments in
-the Indo-Pacific region.</p>
+<p>The annual IPEF Clean Economy Investor Forum is a key initiative under
+the IPEF Clean Economy Agreement to catalyse investment for sustainable
+infrastructure and climate technology across IPEF partners. In 2024, the
+inaugural Forum will bring together the region’s largest investors, innovative
+startup entrepreneurs, and cutting edge project proponents with IPEF Ministers
+and government agencies for matchmaking and investment facilitation. Additional
+details will be available soon, including keynote speeches, panel discussions,
+and calls for sustainable infrastructure projects as well as climate technology
+startups to participate at the Forum. The inaugural Forum is taking place
+in Singapore on 6 June 2024.</p>
 <p><u>About the Indo-Pacific Economic Framework for Prosperity (IPEF)</u>
 </p>
 <p>The <a href="ipef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Indo-Pacific Economic Framework for Prosperity</a> (IPEF)
