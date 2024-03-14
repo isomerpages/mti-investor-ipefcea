@@ -27,7 +27,7 @@ sections:
           description: ""
         - title: Keynotes and panel discussions
           description: ""
-        - title: Dedicated breakouts for pitching to investors
+        - title: Business and investor matching
           description: ""
   - announcements:
       title: Media Centre
