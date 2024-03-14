@@ -12,7 +12,7 @@ sections:
         Singapore, 6 June 2024
       background: /images/IMG_0008.jpg
       variant: center
-      button: Singapore, 6 June 2024
+      button: Singapore, 5-6 June 2024
       url: /overview
   - infopic:
       title: About the Forum
