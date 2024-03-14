@@ -9,7 +9,7 @@ sections:
   - hero:
       title: IPEF Clean Economy Investor Forum
       subtitle: The inaugural IPEF Clean Economy Investor Forum premieres in
-        Singapore, 6 June 2024
+        Singapore, 5-6 June 2024
       background: /images/IMG_0008.jpg
       variant: center
       button: Singapore, 5-6 June 2024
