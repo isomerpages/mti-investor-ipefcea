@@ -13,7 +13,7 @@ and government agencies for matchmaking and investment facilitation. Additional
 details will be available soon, including keynote speeches, panel discussions,
 and calls for sustainable infrastructure projects as well as climate technology
 startups to participate at the Forum. The inaugural Forum is taking place
-in Singapore on 6 June 2024.</p>
+in Singapore on 5 - 6 June 2024.</p>
 <p><u>About the Indo-Pacific Economic Framework for Prosperity (IPEF)</u>
 </p>
 <p>The <a href="ipef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Indo-Pacific Economic Framework for Prosperity</a> (IPEF)
