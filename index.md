@@ -4,8 +4,7 @@ title: IPEF Investor Forum
 description: IPEF Investor Forum 2024
 image: /images/isomer-logo.svg
 permalink: /
-notification: The inaugural IPEF Clean Economy Investor Forum premieres in
-  Singapore, 6 June 2024
+notification: ""
 sections:
   - hero:
       title: IPEF Clean Economy Investor Forum
@@ -13,6 +12,8 @@ sections:
         Singapore, 6 June 2024
       background: /images/IMG_0008.jpg
       variant: center
+      button: Singapore, 6 June 2024
+      url: /overview
   - infopic:
       title: About the Forum
       id: infopic
