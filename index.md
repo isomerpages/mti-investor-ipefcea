@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: IPEF Investor Forum
-description: An Isomer site of the Singapore Government
+description: IPEF Investor Forum 2024
 image: /images/isomer-logo.svg
 permalink: /
 notification: The inaugural IPEF Investor Forum premieres in Singapore, 6 June 2024
