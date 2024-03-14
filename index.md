@@ -13,9 +13,9 @@ sections:
       background: /images/IMG_0008.jpg
       variant: center
   - infopic:
-      title: IPEF Investor Forum
+      title: About the Forum
       id: infopic
-      button: About the forum
+      button: learn more
       url: /overview
       image: /images/Screenshot_2023_11_17_153327.png
       alt: Image alt text
@@ -28,8 +28,6 @@ sections:
         - title: Keynotes and panel discussions
           description: ""
         - title: Dedicated breakouts for pitching to investors
-          description: ""
-        - title: More updates coming soon
           description: ""
   - infobar:
       title: "Green-Light: Sustainable Infrastructure"
