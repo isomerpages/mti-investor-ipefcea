@@ -16,7 +16,7 @@ startups to participate at the Forum. The inaugural Forum is taking place
 in Singapore on 5 - 6 June 2024.</p>
 <p><u>About the Indo-Pacific Economic Framework for Prosperity (IPEF)</u>
 </p>
-<p>The <a href="ipef.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Indo-Pacific Economic Framework for Prosperity</a> (IPEF)
+<p>The <a href="http://www.ipef.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Indo-Pacific Economic Framework for Prosperity</a> (IPEF)
 was launched on 23 May 2022 and currently includes 14 partners – Australia,
 Brunei Darussalam, Fiji, India, Indonesia, Japan, Republic of Korea, Malaysia,
 New Zealand, Philippines, Singapore, Thailand, the United States and Vietnam.
