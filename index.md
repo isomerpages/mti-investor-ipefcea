@@ -29,24 +29,7 @@ sections:
           description: ""
         - title: Dedicated breakouts for pitching to investors
           description: ""
-  - infobar:
-      title: "Green-Light: Sustainable Infrastructure"
-      subtitle: Call for projects
-      description: Unveiling high-potential sustainable infrastructure projects. More
-        information coming soon!
-  - infobar:
-      title: "Green-Light: Climate Tech Start-Ups"
-      subtitle: Open call for start ups
-      id: infobar
-      description: Calling all startups and change makers developing tech for climate
-        change. More information coming soon!
   - announcements:
-      title: Upcoming Events
+      title: Media Centre
       id: announcements
-      announcement_items:
-        - title: Coming Soon
-          date: 06 June 2024
-          announcement: Stay tuned for more details
-          link_text: ""
-          link_url: ""
 ---
