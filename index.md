@@ -25,9 +25,9 @@ sections:
       infoboxes:
         - title: Welcome Evening Reception
           description: ""
-        - title: Keynotes and panel discussions
+        - title: Keynotes and Panel Discussions
           description: ""
-        - title: Business and investor matching
+        - title: Business and Investor Matching
           description: ""
   - resources:
       title: Media Centre
