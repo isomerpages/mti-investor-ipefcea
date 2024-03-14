@@ -29,9 +29,6 @@ sections:
           description: ""
         - title: Business and investor matching
           description: ""
-  - announcements:
-      title: Media Centre
-      id: announcements
   - resources:
       title: Media Centre
       id: resources
