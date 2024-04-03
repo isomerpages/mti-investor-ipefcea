@@ -29,6 +29,11 @@ sections:
           description: ""
         - title: Business and Investor Matching
           description: ""
+  - infobar:
+      title: Indo Pacific Climate Tech 100
+      id: infobar
+      button: LEARN MORE
+      url: NA
   - resources:
       title: Media Centre
       id: resources
