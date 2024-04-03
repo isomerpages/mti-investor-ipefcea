@@ -33,7 +33,7 @@ sections:
       title: Indo Pacific Climate Tech 100
       id: infobar
       button: LEARN MORE
-      url: NA
+      url: /indo-pacific-climate-tech-100/
   - resources:
       title: Media Centre
       id: resources
