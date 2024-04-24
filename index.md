@@ -34,6 +34,11 @@ sections:
       id: infobar
       button: LEARN MORE
       url: /indo-pacific-climate-tech-100/
+  - infobar:
+      title: Call for Infrastructure Projects
+      id: infobar
+      button: LEARN MORE
+      url: placeholder
   - resources:
       title: Media Centre
       id: resources
