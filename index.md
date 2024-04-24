@@ -38,7 +38,7 @@ sections:
       title: Call for Infrastructure Projects
       id: infobar
       button: LEARN MORE
-      url: placeholder
+      url: /call-for-sustainable-infrastructure-projects/
   - resources:
       title: Media Centre
       id: resources
