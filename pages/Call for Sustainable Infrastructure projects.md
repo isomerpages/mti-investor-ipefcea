@@ -16,7 +16,7 @@ proponents would be invited to pitch their concepts to global investors
 at the Investor Forum in Singapore on 5-6 June. To participate, project
 proponents are encouraged to get in touch with their respective IPEF government
 representatives. Nominations are open until 26<sup> </sup>April 2024.</p>
-<p><strong>About PwC </strong>
+<p><strong>About PwC</strong>
 </p>
 <p>At PwC, our purpose is to build trust in society and solve important problems
 - this is at the core of everything we do from the value we provide to
