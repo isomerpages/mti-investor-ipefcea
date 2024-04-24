@@ -23,7 +23,7 @@ sections:
       title: Programme Overview
       id: infocols
       infoboxes:
-        - title: Welcome Evening Reception
+        - title: Welcome Dinner
           description: ""
         - title: Keynotes and Panel Discussions
           description: ""
