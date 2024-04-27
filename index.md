@@ -23,7 +23,7 @@ sections:
       title: Programme Overview
       id: infocols
       infoboxes:
-        - title: Welcome Evening Reception
+        - title: Welcome Dinner
           description: ""
         - title: Keynotes and Panel Discussions
           description: ""
@@ -34,6 +34,11 @@ sections:
       id: infobar
       button: LEARN MORE
       url: /indo-pacific-climate-tech-100/
+  - infobar:
+      title: Call for Infrastructure Projects
+      id: infobar
+      button: LEARN MORE
+      url: /call-for-sustainable-infrastructure-projects/
   - resources:
       title: Media Centre
       id: resources
